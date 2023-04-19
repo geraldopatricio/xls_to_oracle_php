@@ -2,7 +2,7 @@
   <img src="./assets/images/logo.png" width="300" alt="PHP" /></a>
 </p>
 
-# SCRIPT PYTHON
+# Importar dados do XLS para o Oracle
 
 ## Objetivo
 ```bash
